@@ -1,6 +1,6 @@
-// import project1 from "../assets/projects/project-1.jpg";
-// import project2 from "../assets/projects/project-2.jpg";
-// import project3 from "../assets/projects/project-3.jpg";
+import blogWebsiteImage from "../assets/projects/BlogWebsiteProject.png";
+import cocktailCreatorImage from "../assets/projects/CocktailCreatorProject.png";
+import simonGameImage from "../assets/projects/SimonProject.png";
 // import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
@@ -22,21 +22,21 @@ export const EXPERIENCES = [
 export const PROJECTS = [
     {
         title: "Cocktail Creator",
-        // image: cocktailCreatorImage, // Replace with the actual image reference
+        image: cocktailCreatorImage, // Replace with the actual image reference
         description:
             "A dynamic web app that uses an external API to display drink recipes and information, featuring real-time data rendering and search functionality.",
         technologies: ["Node.js", "Express", "EJS", "Axios"],
     },
     {
         title: "Blog Website",
-        // image: blogWebsiteImage, // Replace with the actual image reference
+        image: blogWebsiteImage, // Replace with the actual image reference
         description:
             "A full CRUD application for creating, updating, and deleting blog posts, with efficient data storage and retrieval using PostgreSQL.",
         technologies: ["React", "Node.js", "PostgreSQL", "HTML", "CSS"],
     },
     {
         title: "Simon Game",
-        // image: simonGameImage, // Replace with the actual image reference
+        image: simonGameImage, // Replace with the actual image reference
         description:
             "An interactive pattern-matching memory game, built with engaging animations and sound effects for a fun user experience.",
         technologies: ["HTML", "CSS", "JavaScript", "jQuery"],
