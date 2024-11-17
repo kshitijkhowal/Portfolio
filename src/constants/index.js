@@ -5,7 +5,9 @@ import simonGameImage from "../assets/projects/SimonProject.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I'm Kshitij, a passionate software developer with a knack for creating efficient and engaging web applications. Currently pursuing a B.Tech in Engineering Physics at Delhi Technological University, I've developed a strong foundation in problem-solving and full-stack development. With experience in frameworks like React, Node.js, and databases like PostgreSQL and MongoDB, I love bringing ideas to life through clean and scalable code.
+
+Beyond programming, I'm a curious learner who enjoys exploring how technology can be used for good. My projects, from building a dynamic Cocktail Creator app to developing a feature-rich Blog Website, reflect my commitment to blending functionality with a great user experience. In my free time, I enjoy music, evening walks, and discovering new ways to grow as a developer.`;
 
 export const EXPERIENCES = [
     {
