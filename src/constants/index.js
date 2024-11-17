@@ -14,7 +14,7 @@ export const EXPERIENCES = [
         company: "Growth Marketers",
         description: `Developed CRM modules using JavaScript, React, Node.js with Express, ensuring smooth data flow.Integrated Google OAuth for secure login, performed testing and debugging to enhance software quality.
 `,
-        technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL","Google Oauth"],
+        technologies: ["Javascript", "React.js", "Node.js", "PostgreSQL"],
     },
 
 ];

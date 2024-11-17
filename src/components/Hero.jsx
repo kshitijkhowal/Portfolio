@@ -51,7 +51,7 @@ const Hero = () => {
                                 <FaEnvelope className="text-lg sm:text-xl" /> Contact Me
                             </a>
                             <a
-                                href="/path/to/your_resume.pdf"
+                                href="https://drive.google.com/file/d/1b5ZFoBGW3XonXNn6l0i-N9EamLKg3jak/view?usp=sharing"
                                 download
                                 className="flex items-center justify-center gap-3 px-4 sm:px-6 py-2 sm:py-3 text-white bg-gradient-to-r from-blue-500 to-blue-700 hover:from-blue-600 hover:to-blue-800 rounded-full shadow-lg transform hover:scale-105 transition duration-300 ease-in-out"
                             >
