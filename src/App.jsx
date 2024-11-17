@@ -1,6 +1,7 @@
 import Navbar from "./components/navbar"
 import Hero from "./components/hero"
 import About from "./components/About"
+import Technologies from "./components/Technologies"
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
             <Navbar />
             <Hero/>
             <About/>
+            <Technologies/>
           </div>
 
       </div>
